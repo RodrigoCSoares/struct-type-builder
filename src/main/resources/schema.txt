@@ -1,0 +1,4 @@
+root
+ |-- topic: string (nullable = true)
+ |-- key: string (nullable = true)
+ |-- received_iso_at: timestamp (nullable = true)
